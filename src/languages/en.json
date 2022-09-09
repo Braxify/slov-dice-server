@@ -1,0 +1,41 @@
+{
+  "auth": {
+    "error": {
+      "userExist": "User already exists",
+      "userNotFound": "User not found",
+      "userRegisteredByThirdParty": "This mail is registered through an third party",
+      "mailRegistered": "This mail is already registered",
+      "wrongPassword": "Wrong password",
+      "mailNotVerified": "This mail is not verified.",
+      "sessionNotFound": "Session not found",
+      "invalidCode": "Invalid restore code",
+      "passwordsMatch": "Passwords match",
+      "letterSendingError": "Error sending letter",
+      "invalidToken": "Invalid verification token",
+      "unauthorized": "Unauthorized",
+      "refreshTokenExpired": "Refresh token expired"
+    },
+    "success": {
+      "checkEmail": "Code has been successfully sent to your email!",
+      "changePassword": "Password changed successfully",
+      "registered": "You have successfully registered!",
+      "login": "You have successfully logged in",
+      "verified": "Account successfully verified",
+      "check": "Successfully check your tokens"
+    }
+  },
+  "room": {
+    "success": {
+      "created": "Room created successfully",
+      "join": "Successfully join"
+    },
+    "info": {
+      "userJoin": "New user join to party!",
+      "userLeft": "User has left the room"
+    },
+    "error": {
+      "full": "Room is full",
+      "wrongPassword": "Wrong password"
+    }
+  }
+}
